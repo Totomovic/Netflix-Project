@@ -1,4 +1,4 @@
-Netflix Movies Data Analysis 
+# Netflix Movies Data Analysis 
 Questo repository contiene un progetto di analisi esplorativa dei dati (EDA) sviluppato in Jupyter Notebook utilizzando Python. L’obiettivo del progetto è analizzare un dataset di film presenti su Netflix per estrarre insight significativi riguardanti i generi cinematografici, la popolarità, i voti medi e la distribuzione temporale delle uscite.
 
   Descrizione del dataset
